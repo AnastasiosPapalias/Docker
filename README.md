@@ -51,4 +51,14 @@ Information on using Docker with various programming languages:
 * [Docker Community Forums](https://forums.docker.com/) - Engage in conversations, ask questions, and share knowledge with the Docker community.
 * [Docker Community on Slack](https://www.communitysoftware.co/docker-community-slack) - Join one of the largest developer communities to learn and share about Docker.
 
+## Support
+
+If you find this repository helpful, consider supporting my work:
+
+- Star this repository
+- Share it with others who might benefit
+- [Buy me a coffee ☕](https://buymeacoffee.com/tasospapalias)
+
+Your support helps me dedicate more time to improving these resources and creating new content.
+
 By organizing and contributing to this repository, we aim to provide a comprehensive and up-to-date resource for all things Docker, fostering a collaborative environment for learning and growth. 
