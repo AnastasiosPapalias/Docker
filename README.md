@@ -20,6 +20,9 @@ We welcome contributions! If you have valuable Docker resources, tutorials, or t
 
 * [Docker Documentation](https://docs.docker.com/) - Comprehensive guides and references for all Docker products and features.
 
+## Resources 
+* [How to Set Up qBittorrent with Wireguard VPN on TrueNAS Scale](https://github.com/AnastasiosPapalias/Docker/blob/main/docker-files/qbitVPN.md)
+
 ## Community Resources
 
 * [Docker Community](https://www.docker.com/community/) - Connect with fellow Docker users, participate in discussions, and stay updated with community events.
